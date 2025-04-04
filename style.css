@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    height: 100vh;
+    padding: 0;
+}
+
+div{
+    width: 100vw;
+    height: 50px;
+    /*margin-bottom: 100px;*/
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+}
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    margin-right: 40px;
+}
+#logo{
+    position: fixed;
+    width: 50px;
+    left: 10px;
+    top: 2.9px;
+}
+#pers{
+    width: 340px;
+}
+section{
+    padding: 50px;
+    height: 100vh;
+
+}
+#home{
+    background-color: gray;
+}
+#curi{
+    background-color: gray;
+}
+#vid{
+    background-color: gray;
+}
